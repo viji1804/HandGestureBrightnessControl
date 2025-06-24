@@ -25,13 +25,13 @@ This project is a real-time hand gesture recognition system that adjusts screen 
 
 ## 📦 Installation
 
-### 1. Clone the Repository
+1. Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/HandGestureBrightnessControl.git
 cd HandGestureBrightnessControl
 ```
-###2. Create and Activate Virtual Environment
+2. Create and Activate Virtual Environment
 ```bash
 python -m venv venv
 # On Windows
@@ -39,7 +39,7 @@ venv\Scripts\activate
 # On macOS/Linux
 source venv/bin/activate
 ```
-###3. Install Dependencies
+3. Install Dependencies
 ```bash
 pip install opencv-python mediapipe screen-brightness-control
 ```
